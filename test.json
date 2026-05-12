@@ -1,0 +1,20 @@
+{
+    
+    "modelId":"meta.llama3-70b-instruct-v1:0",
+
+    "contentType":"application/json",
+
+    "accept":"application/json",
+
+    "body":{
+        "prompt": "<s>[INST] Human: write a 200 words blog on the topic {blogtopic} Assistant: [/INST]",
+
+        "max_gen_len": 512,
+
+        "temperature": 0.5,
+
+        "top_p": 0.9
+    }
+
+}
+    
