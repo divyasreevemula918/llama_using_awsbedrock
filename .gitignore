@@ -1,0 +1,64 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite database
+*.sqlite3
+
+# FAISS vector database
+faiss_index/
+
+# Uploaded files
+uploads/
+
+# PDF files (optional)
+*.pdf
+
+# Model/cache files
+.cache/
+models/
+
+# AWS credentials
+.aws/
+
+# Temporary files
+temp/
+tmp/
+
+# Generated output files
+output/
+
+# Bytecode
+*.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
