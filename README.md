@@ -157,7 +157,7 @@ The application generates:
 ---
 
 # Deployement link
-https://5prpgdimv3.execute-api.us-east-1.amazonaws.com/dev
+https://5prpgdimv3.execute-api.us-east-1.amazonaws.com/dev/blog
 
 
 # screenshots
