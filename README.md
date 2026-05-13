@@ -156,6 +156,15 @@ The application generates:
 
 ---
 
+# Deployement link
+https://5prpgdimv3.execute-api.us-east-1.amazonaws.com
+
+
+# screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75a29cf9-9c83-4085-92ba-86dd86fec455" />
+
+
+
 # 📌 Example Bedrock API Request
 
 ```python
