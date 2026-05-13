@@ -157,11 +157,16 @@ The application generates:
 ---
 
 # Deployement link
-https://5prpgdimv3.execute-api.us-east-1.amazonaws.com
+https://5prpgdimv3.execute-api.us-east-1.amazonaws.com/dev
 
 
 # screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75a29cf9-9c83-4085-92ba-86dd86fec455" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e495d43-b1c5-428b-9758-31508a6990b9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bff9ef3-d479-4f36-b32f-fd43613d6eee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/201b9e9b-817a-422e-9256-0b5227cff92a" />
+
+
+
 
 
 
